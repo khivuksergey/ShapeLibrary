@@ -54,7 +54,7 @@ namespace ShapeLibrary.UnitTests
         }
 
         [Test]
-        public void GetArea_SidesAreThreeFourFive_ReturnsSevenAndAHalf()
+        public void GetArea_SidesAreThreeFourFive_ReturnsSix()
         {
             Triangle triangle = new(3, 4, 5);
 
